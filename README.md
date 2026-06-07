@@ -1,2 +1,2 @@
 # Task-1-Gibson
-This is my project interning for Decodelabs
+These are my projects for Decodelabs
